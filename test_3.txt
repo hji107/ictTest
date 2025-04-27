@@ -31,3 +31,12 @@ git status구낰ㅋㅋㅋㅋ
 
 아 미묘하군..werf
 깃 difftool을 써보자
+
+
+
+adfadfawdf
+adfadfadfasdfasdf
+adfadfadfasdfasdfadf
+
+
+difftool 나가려 한거뿐인데 왜이리 뭐가 번거롭냐....
