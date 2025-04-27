@@ -89,3 +89,7 @@ https://kkh1902.tistory.com/152
 git clone https://github.com/hji107/ictTest.git
 
 test
+아 나 혼자 하니 pull push 헷갈려서 명령어 입력해놓고선
+어 왜 깃허브에 수정된게 안올라가지 이러고있네
+여러분 잘 구분합시다
+잘못하다간 파일들 날리기 정말 좋을거같아요
