@@ -1,0 +1,90 @@
+1) 
+https://www.youtube.com/watch?v=sly2u8BIi9E
+2)
+https://www.youtube.com/watch?v=lelVripbt2M
+
+2번 영상에 쓰인 명령어 모음
+https://hackmd.io/@oW_dDxdsRoSpl0M64Tfg2g/ByfwpNJ-K
+
+
+
+원하는 폴더 shift 누른 상태에서 우클릭
+
+
+git init : 작업폴더에서 깃 사용하고싶을시 입력
+
+git add app.txt(파일명) : 깃 스테이징
+git commit -m '첫 커밋 파일' : 깃 커밋하기 / 메세지 적기
+git log --all --oneline : 커밋내역조회
+
+1.git add로 기록할 파일 고르고(이미지파일등은 기록 안해도 되니까)
+2.git commit 명령으로 고른 파일 기록한다
+
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test_3.txt
+이런 메세지 나타난다
+
+새 파일 생성 - 깃 스테이징은 되는데
+기존 파일 - 커밋은 왜 안되는걸까?
+
+1.파일을 진짜 수정하고
+2.수정한 파일을 저장(Ctrl+S) 한 다음
+3ek시 git add → git commit 하면 됩니다!
+
+//여기까지는 내 pc에 저장하는것
+git pull origin main
+이 명령어를 실행해야 pc -> github(웹상)에 올라가는것
+
+ * [new branch]      main -> main
+나오면 성공
+
+
+이후 깃허브 웹페이지 새로고침 하면 파일이 올라간것 확인됨
+
+
+
+----
+
+https://www.youtube.com/watch?v=tkkbYCajCjM
+
+팀원초대
+GitHub에 로그인
+
+**원하는 저장소(Repository)**로 들어가기
+(예: hji107/ictTest)
+저장소 상단 메뉴에서 "Settings" 클릭
+왼쪽 사이드바 메뉴에서 "Collaborators" 클릭
+(Access → Collaborators)
+사용자 id입력해 초대
+
+
+git remote -v
+통해 터미널에서 레포지토리 디렉토리로 이동
+
+git init
+
+git add .
+
+git push origin main 
+
+
+
+
+---------------
+
+깃 풀(깃허브->개인 pc) 하는법
+https://sin0824.tistory.com/11
+
+git remote -v
+
+git pull
+
+안되면
+git pull origin main
+
+깃허브=>내 pc로 코드 가져오는법들 차이
+
+https://kkh1902.tistory.com/152
+
+git clone https://github.com/hji107/ictTest.git
+

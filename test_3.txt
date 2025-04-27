@@ -1,0 +1,46 @@
+32ewdsxq3ewadsx
+qwefds3erwds
+weafds
+werf
+wreq
+rwe
+rweq
+qwefds3erwdsrq
+werq3er
+qwefds3erwdsqwer
+werq3erawdf
+aef
+adfadfadfasdf
+adfadfadfasdffasd
+fsd
+fsda
+fasd
+sfgsfdg
+
+와 요즘엔 터미널 통해 꼭 커밋 안하고 VS 자체에 커밋하는 기능이 있네..
+그런데 난 이클립스 / 스프링 쓰잖아.. 여기선 어떻게 깃 쓰는거지? ㅎ
+
+깃 diff용 차이
+이걸 알아차릴 수 있으려나?
+
+diff용 차이 2
+
+git status구낰ㅋㅋㅋㅋ
+
+아 깃 diff 해볼거야
+
+아 미묘하군..werf
+깃 difftool을 써보자
+
+
+
+adfadfawdf
+adfadfadfasdfasdf
+adfadfadfasdfasdfadf
+
+
+difftool 나가려 한거뿐인데 왜이리 뭐가 번거롭냐....
+
+
+수정사항 
+계속 추가하는방법
